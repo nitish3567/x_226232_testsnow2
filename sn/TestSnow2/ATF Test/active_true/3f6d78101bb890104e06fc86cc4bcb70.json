@@ -1,0 +1,21 @@
+{
+  "active": true,
+  "copied_from": null,
+  "description": null,
+  "enable_parameterized_testing": false,
+  "name": "AutoTest",
+  "parameters": null,
+  "remember": null,
+  "sys_class_name": "sys_atf_test",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-05-11 13:03:44",
+  "sys_id": "3f6d78101bb890104e06fc86cc4bcb70",
+  "sys_mod_count": 0,
+  "sys_name": "AutoTest",
+  "sys_package": "aa2db0981b7890104e06fc86cc4bcbad",
+  "sys_policy": null,
+  "sys_scope": "aa2db0981b7890104e06fc86cc4bcbad",
+  "sys_update_name": "sys_atf_test_3f6d78101bb890104e06fc86cc4bcb70",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-05-11 13:03:44"
+}
